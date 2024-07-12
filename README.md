@@ -1,4 +1,6 @@
 # FaturasAPI
 
 Working in progress.
-(No security applied, yet!)
+
+(No security applied, yet!
+Unit tests in progress)
